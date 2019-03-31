@@ -12,3 +12,4 @@ Traffic light controller for pedestrian crossing
 *TLC-06	Controller shall maintain the status of through traffic based on the minimum green period
 *TLC-07	Controller shall alert drivers and pedestrian about irregular operations by flashing lamps
 *TLC-08	Controller shall have local operator panel for configuring its settings
+
